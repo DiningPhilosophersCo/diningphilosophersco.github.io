@@ -49,9 +49,7 @@ const config = {
           alt: "Dining Philosophers Logo - chopsticks around the Pi symbol",
           src: "img/logo.png",
         },
-        items: [
-          // { to: "/blog", label: "Blog", position: "left" },
-        ],
+        items: [{ to: "/about", label: "About", position: "right" }],
       },
       footer: {
         style: "dark",
